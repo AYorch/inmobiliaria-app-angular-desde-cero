@@ -1,0 +1,7 @@
+npm i bootstrap@5.3.8
+
+// OPCIONAL
+npm install @fortawesome/free-solid-svg-icons
+npm i @fortawesome/angular-fontawesome
+//
+
