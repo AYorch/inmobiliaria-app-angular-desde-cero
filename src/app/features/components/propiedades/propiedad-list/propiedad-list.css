@@ -1,0 +1,23 @@
+.mat-mdc-card{
+    margin: 2%;
+}
+
+.mdc-button{
+    margin: 2px;
+}
+
+.mat-mdc-header-row{
+    background-color: rgb(44, 44, 190); 
+    color:white;
+}
+
+
+.mdc-button-delete {
+    background-color: rgb(219, 20, 20) !important;
+    color:white !important;
+}
+
+.mdc-button-edit {
+    background-color: rgb(98, 233, 150) !important;
+    color:black !important;
+}

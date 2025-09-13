@@ -1,3 +1,38 @@
+ng add @angular/material
+
+-OLD IGNORAR
+npm install -g json-server
+json-server --watch src/data/db-inmobiliaria.json
+--
+
+-otro json server
+npm install json-server@0.17.3 --save-dev
+npx json-server --watch src/data/db-inmobiliaria.json --port 3000
+
+
+
+
+
+npm install ngx-toastr --save
+
+npm install @angular/animations --save --force
+
+
+npm install sweetalert2
+
+
+
+npm install json-server@0.17.3 --save-dev
+
+
+
+
+
+
+
+/**/
+
+
 npm i bootstrap@5.3.8
 
 // OPCIONAL

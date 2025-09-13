@@ -1,0 +1,84 @@
+{
+  "propiedades": [
+    {
+      "id": "1",
+      "direccion": "Calle Falsa 123444",
+      "tipo": "Departamento",
+      "area": "150",
+      "precio": 2800,
+      "estado": "En Venta"
+    },
+    {
+      "id": "2",
+      "direccion": "Calle Falsa 123",
+      "tipo": "Mini-Departamento",
+      "area": "90",
+      "precio": 2000,
+      "estado": "En Alquiler"
+    },
+    {
+      "id": "3",
+      "direccion": "Calle Falsa 123",
+      "tipo": "Mini-Departamento",
+      "area": "90",
+      "precio": 1800,
+      "estado": "En Alquiler"
+    },
+    {
+      "id": "4",
+      "direccion": "Calle Falsa ABCDE",
+      "tipo": "Departamento",
+      "area": "180",
+      "precio": 2500,
+      "estado": "En Alquiler"
+    },
+    {
+      "id": "5",
+      "direccion": "Calle Falsa ABCDE",
+      "tipo": "Departamento",
+      "area": 150,
+      "precio": 1500,
+      "estado": "En Alquiler"
+    },
+    {
+      "id": "6",
+      "direccion": "Calle Falsa ABCDE",
+      "tipo": "Departamento",
+      "area": "180",
+      "precio": 2500,
+      "estado": "En Alquiler"
+    },
+    {
+      "id": "7",
+      "direccion": "Calle Falsa DEFG",
+      "tipo": "Departamento",
+      "area": 200,
+      "precio": 2200,
+      "estado": "En Alquiler"
+    },
+    {
+      "id": "8",
+      "direccion": "Calle Falsa AB",
+      "tipo": "Departamento",
+      "area": "180",
+      "precio": 2500,
+      "estado": "En Alquiler"
+    },
+    {
+      "id": "9",
+      "direccion": "Calle Falsa ABCD",
+      "tipo": "Casa",
+      "area": 190,
+      "precio": 2600,
+      "estado": "En Alquiler"
+    },
+    {
+      "direccion": "DIRECCION PRUEBA 1",
+      "tipo": "Casa",
+      "area": 50,
+      "precio": 1500,
+      "estado": "En Venta",
+      "id": "KPx6jZh"
+    }
+  ]
+}
